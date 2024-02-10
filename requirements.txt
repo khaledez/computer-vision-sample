@@ -4,3 +4,4 @@ keras
 matplotlib
 pillow
 jupyter
+scikit-learn
